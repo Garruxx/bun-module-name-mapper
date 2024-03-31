@@ -40,4 +40,4 @@ plugin(
 
 The ```rootDir``` is not supported because bun inherently understands the default aliases. Therefore, there is no need to manipulate your testing module to achieve this. Instead, configure your aliases directly in the tsconfig.json file. This approach promotes a more streamlined and professional workflow.”
 
-> If you think rootDir is still needed, please leave an issuse and I'll consider adding it.
+> If you think rootDir is still needed, please leave an issuse and I'll consider adding it.# bun-module-name-mapper
