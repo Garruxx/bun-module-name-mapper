@@ -1,0 +1,36 @@
+{
+  "name": "bun-module-name-mapper",
+  "module": "index.ts",
+  "type": "module",
+  "description": "The moduleNameMapper functionality of jest for bun",
+  "main": "./index.ts",
+  "author": "Jhon Guerrero <garruxx@gmail.com> (Garrux)",
+  "bugs": {
+    "url": "https://github.com/Garruxx/Ayncat/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bun",
+    "bunjs",
+    "moduleNameMapper",
+    "test",
+    "moduleNameMapper for bun"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "bun-types": "^1.0.36",
+    "typescript": "^5.4.3",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "bun test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garruxx/bun-module-name-mapper.git"
+  },
+  "homepage": "https://github.com/Garruxx/bun-module-name-mapper#readme"
+}
