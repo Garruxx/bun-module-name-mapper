@@ -1,5 +1,10 @@
 # Bun test ModuleNameMapper
 
+intall
+```sh
+bun add -d bun-module-name-mapper
+```
+
 This module performs the same function as "moduleNameMapper" in jest, the only difference is that bunModuleNameMapper is designed to bun
 
 ## Configuration
