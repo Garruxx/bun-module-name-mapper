@@ -10,7 +10,7 @@ Bun carries out its configuration in a file named [bunfig.toml](https://bun.sh/d
 
 In your bunfig.toml file, add your test.plugins.ts file as a preload file for the tests.
 
-`test.plugins.ts`
+`bunfig.toml`
 
 ```toml
 [test]
