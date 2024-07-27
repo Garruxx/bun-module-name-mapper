@@ -30,7 +30,7 @@ Next, in your test.plugins.ts file, run the plugin with your desired configurati
 import { plugin } from 'bun'
 import nameMapper from 'bun-module-name-mapper'
 plugin(
-	BunModuelNameMapperPlugin({
+	nameMapper({
 		'^@/(.*)$': 'src/$1', // this is an example
 
 		// Here is your configuration as it
