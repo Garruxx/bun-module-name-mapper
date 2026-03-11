@@ -1,6 +1,6 @@
 # Bun test ModuleNameMapper
 
-intall
+install
 ```sh
 bun add -d bun-module-name-mapper
 ```
